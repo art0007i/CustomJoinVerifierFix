@@ -1,6 +1,6 @@
 # CustomJoinVerifierFix
 
-A [ResoniteModLoader](https://github.com/resonite-modding-group/ResoniteModLoader) mod for [Resonite](https://resonite.com/) that allows admins to enable the custom join verifier, instead of only the host. This is mainly useful on headless servers.
+A [ResoniteModLoader](https://github.com/resonite-modding-group/ResoniteModLoader) mod for [Resonite](https://resonite.com/) that allows you to enable the custom join verifier when you have admin permissions, instead of only the host.
 
 ## Installation
 1. Install [ResoniteModLoader](https://github.com/resonite-modding-group/ResoniteModLoader).
